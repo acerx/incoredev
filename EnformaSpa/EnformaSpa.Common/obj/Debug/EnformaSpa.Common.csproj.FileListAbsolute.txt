@@ -1,0 +1,4 @@
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Common\bin\Debug\EnformaSpa.Common.dll
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Common\bin\Debug\EnformaSpa.Common.pdb
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Common\obj\Debug\EnformaSpa.Common.dll
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Common\obj\Debug\EnformaSpa.Common.pdb

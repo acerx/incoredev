@@ -1,0 +1,5 @@
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\bin\Debug\EnformaSpa.Services.dll
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\bin\Debug\EnformaSpa.Services.pdb
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.csprojResolveAssemblyReference.cache
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.dll
+E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.pdb
