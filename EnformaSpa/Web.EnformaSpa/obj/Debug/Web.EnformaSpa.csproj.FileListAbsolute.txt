@@ -29,3 +29,34 @@ E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFram
 E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\SimpleCrypto.dll
 E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.xml
 E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.SqlServer.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Web.EnformaSpa.dll.config
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Web.EnformaSpa.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Web.EnformaSpa.pdb
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Antlr3.Runtime.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.SqlServer.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Microsoft.Web.Infrastructure.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Newtonsoft.Json.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\SimpleCrypto.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Helpers.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Mvc.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Optimization.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Razor.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Deployment.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Razor.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\WebGrease.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Antlr3.Runtime.pdb
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.SqlServer.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\Newtonsoft.Json.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Helpers.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Mvc.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Optimization.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Razor.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Deployment.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Razor.xml
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.csprojResolveAssemblyReference.cache
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.dll
+D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.pdb
