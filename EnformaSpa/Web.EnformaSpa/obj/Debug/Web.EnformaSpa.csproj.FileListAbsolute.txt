@@ -60,3 +60,34 @@ D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Razor.
 D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.csprojResolveAssemblyReference.cache
 D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.dll
 D:\GitEnforma\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.pdb
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Web.EnformaSpa.dll.config
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Web.EnformaSpa.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Web.EnformaSpa.pdb
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Antlr3.Runtime.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.SqlServer.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Microsoft.Web.Infrastructure.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Newtonsoft.Json.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\SimpleCrypto.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Helpers.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Mvc.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Optimization.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Razor.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Deployment.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Razor.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\WebGrease.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Antlr3.Runtime.pdb
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\EntityFramework.SqlServer.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\Newtonsoft.Json.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Helpers.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Mvc.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Optimization.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.Razor.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Deployment.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\bin\System.Web.WebPages.Razor.xml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.csprojResolveAssemblyReference.cache
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\Web.EnformaSpa\obj\Debug\Web.EnformaSpa.pdb

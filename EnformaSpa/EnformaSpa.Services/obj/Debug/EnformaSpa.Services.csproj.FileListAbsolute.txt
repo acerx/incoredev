@@ -3,3 +3,8 @@ E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\bin\Debug
 E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.csprojResolveAssemblyReference.cache
 E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.dll
 E:\5. Progs\5. EnformaSpaRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.pdb
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.Services\bin\Debug\EnformaSpa.Services.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.Services\bin\Debug\EnformaSpa.Services.pdb
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.csprojResolveAssemblyReference.cache
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.Services\obj\Debug\EnformaSpa.Services.pdb
