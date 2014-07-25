@@ -1,0 +1,4 @@
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.SeedDataLoader\bin\Debug\EnformaSpa.SeedDataLoader.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.SeedDataLoader\bin\Debug\EnformaSpa.SeedDataLoader.pdb
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.SeedDataLoader\obj\Debug\EnformaSpa.SeedDataLoader.dll
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaSpa.SeedDataLoader\obj\Debug\EnformaSpa.SeedDataLoader.pdb

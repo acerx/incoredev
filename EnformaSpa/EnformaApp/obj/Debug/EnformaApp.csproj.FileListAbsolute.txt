@@ -1,0 +1,13 @@
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\bin\Debug\EnformaApp.exe.config
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\bin\Debug\EnformaApp.exe
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\bin\Debug\EnformaApp.pdb
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\EnformaApp.csprojResolveAssemblyReference.cache
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\MainWindow.baml
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\MainWindow.g.cs
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\App.g.cs
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\EnformaApp_MarkupCompile.cache
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\EnformaApp.g.resources
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\EnformaApp.Properties.Resources.resources
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\EnformaApp.csproj.GenerateResource.Cache
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\EnformaApp.exe
+D:\Misc\7. ESRepo\incoredev\EnformaSpa\EnformaApp\obj\Debug\EnformaApp.pdb
