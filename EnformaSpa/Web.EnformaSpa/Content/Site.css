@@ -66,6 +66,7 @@ input[type="checkbox"].input-validation-error {
     background-image:url('../img/misc/img1.jpg');
     background-size: 100% 100%;
     height: 320px;
+    border-radius: 5px;
 }
 
 .myShadows {
@@ -73,3 +74,9 @@ input[type="checkbox"].input-validation-error {
     -moz-box-shadow:    0px 5px 20px 0px rgba(50, 50, 50, 0.75);
     box-shadow:         0px 5px 20px 0px rgba(50, 50, 50, 0.75);
 }
+
+.myText a {
+    color: white;
+}
+
+/* DIV NAV */
